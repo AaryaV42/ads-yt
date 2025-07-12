@@ -1,4 +1,4 @@
-![Practicle Use Image](icons/image.png)
+
 
 To use this extension, do the following:
 
