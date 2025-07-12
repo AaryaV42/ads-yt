@@ -10,4 +10,4 @@ To use this extension, do the following:
 6. Select this folder.
 7. Make sure the imported extension is enabled.
 
-> Its better to save this folder somewhere safe and then import it to chrome, ex: C Drive
+
